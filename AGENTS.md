@@ -62,7 +62,7 @@
 - **Due:** 14th May 2026 (One Drive Link Shared by Lecturer)
 
 #### 2. Digital Forensic Report
-- **Word Limit:** 2,000 words (strict)
+- **Word Limit:** 4,000 words equivalent (strict)
 - **Due:** 11th May 2026 at 1500 Hrs via Moodle Link
 
 #### 3. Demonstration
@@ -85,9 +85,14 @@
 - **Joe:** Intermediary
   - Facilitating transfer to competitor
   
-- **Vanessa:** R&D Director at NexGen Circuits (BUYER)
-  - Also referred to as "Norman" in some contexts
-  - Suspected buyer of stolen patents
+- **Norman:** Suspected buyer (associated with NexGen Circuits)
+  - Communicated with Emma regarding patent purchase
+  - Possesses encrypted file (Open.docx) potentially containing patent data
+
+- **Vanessa:** R&D Director at NexGen Circuits
+  - Mentioned in investigation as suspected buyer
+  - **No digital evidence device provided** for Vanessa
+  - Relationship to Norman unclear from available evidence
 
 **Evidence Provided (Seized under continuity-of-evidence protocols):**
 
@@ -105,10 +110,13 @@
    - Instagram DMs
    - Call records
 
-4. **Norman's Android Smartphone** (Note: Vanessa/Norman same person)
+4. **Norman's Android Smartphone**
    - WhatsApp communication logs
    - Emails
    - Call records
+   - Encrypted file: Open.docx (inside Open.7z)
+
+**Important Note:** Vanessa is mentioned in the case as R&D Director at NexGen Circuits, but **no smartphone or digital evidence device was seized from Vanessa** according to the evidence inventory. All analysis must be based on the four evidence items listed above.
 
 **Legal Context:**
 - Reported to law enforcement
@@ -120,8 +128,8 @@
 #### Task 2.1: Evidence Acquisition
 - Acquire forensic images of:
   - Emma's smartphone
-  - Vanessa's (Norman's) smartphone
   - Joe's smartphone
+  - Norman's smartphone
   - Emma's USB flash drive
 - **Tools:** Cellebrite, FTK Imager, or Autopsy
 - Document continuity of evidence for each device
@@ -132,8 +140,8 @@
 #### Task 2.2: Communication Analysis
 - Extract communication logs from:
   - WhatsApp (all 3 smartphones)
-  - Instagram DMs (all 3 smartphones)
-  - Emails (Emma's and Vanessa's smartphones)
+  - Instagram DMs (Emma's and Joe's smartphones)
+  - Emails (Emma's and Norman's smartphones)
 - Reconstruct timeline of interactions between Emma, Joe, and Norman
 - Identify key discussions related to:
   - Theft and sale of QT-AI-2025 patent
@@ -155,9 +163,9 @@
 #### Task 2.4: Call Log and Email Correlation
 - Cross-reference call logs from all three smartphones
 - Confirm communication events
-- Specifically identify key call between Emma, Joe and Vanessa
 - Analyse email exchanges involving patent sample transfers
 - Verify intent to sell proprietary data
+- **Note:** Task brief mentions "key call between Emma, Joe and Vanessa" but Vanessa's device was not seized. Analysis should focus on calls between Emma, Joe, and Norman based on available evidence.
 
 #### Task 2.5: Suspect Profiling
 - Determine roles and motives:
@@ -165,6 +173,7 @@
   - Joe (intermediary)
   - Norman (buyer)
 - Identify additional evidence supporting or refuting involvement in corporate fraud
+- **Note:** Vanessa's role cannot be fully determined without analysis of her device (not provided in evidence)
 
 #### Task 2.6: Forensic Images Submission
 - Submit acquired images or documentation
@@ -230,6 +239,7 @@
 - If challenges encountered (encrypted files, deleted messages):
   - Note them in report
   - Suggest recovery methods
+- **Vanessa's role:** Brief mentions Vanessa as R&D Director and suspected buyer, but no device was seized from her. Analysis of Vanessa must be based on references in the other suspects' communications only.
 
 ---
 
@@ -326,7 +336,7 @@
 
 **Specific Requirements:**
 - Cross-reference call logs from all three smartphones
-- Confirm communication events (key call between Emma, Joe, Vanessa)
+- Confirm communication events (key calls between suspects)
 - Determine roles and motives of all suspects
 - Demonstrate Investigation Process and outcomes fluently with clarity
 - Reflect clearly on personal and technical transferable skills
@@ -376,7 +386,7 @@
 │   │   ├── forensic-reports/              # Autopsy/FTK HTML/PDF
 │   │   ├── communication-logs/            # WhatsApp, Insta, email CSV
 │   │   └── file-analysis/                 # USB drive contents
-│   └── forensic-report.md                 # Task 2 (2000 words)
+│   └── forensic-report.md                 # Task 2 (4000 words)
 └── references/
     └── bibliography.md                    # All citations
 ```
@@ -401,7 +411,7 @@
 - Multiple source types (academic, industry, government)
 
 ### Task 2 (Investigation)
-- 2000 words (report only)
+- 4000 words equivalent (report only)
 - Professional forensic report format
 - All 8 tasks completed (acquisition, analysis, profiling, etc.)
 - Demonstration prepared (14 May)
@@ -418,5 +428,6 @@
 
 ---
 
-**Last Updated:** 28 March 2026  
+**Last Updated:** 30 March 2026  
 **Hashcat Status:** Running (3 PCs, ~1.5 days remaining for 5-char brute)
+**Corrections:** Fixed Vanessa/Norman error - they are separate individuals; Vanessa's device not in evidence inventory
