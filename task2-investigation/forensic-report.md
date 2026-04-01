@@ -9,16 +9,16 @@
 
 ## Executive Summary
 
-This investigation concerns unauthorized access to Quantum Tech's AI chip design patent (QT-AI-2025). Evidence reveals Emma, a senior engineer, conspired to sell proprietary information to competitor NexGen Circuits through intermediary Joe, with Norman as buyer.
+This investigation concerns unauthorized access to Quantum Tech's AI chip design patent (QT-AI-2025). Evidence reveals Emma, a senior engineer, conspired to sell proprietary information to competitor NexGen Circuits through intermediary Joe Marsh, with Norman as buyer.
 
 **Critical Evidence:**
-1. **Explicit Admission (21 Aug 2024):** Emma's WhatsApp message to Joe: "I have access to some highly valuable information from ABC technologies. It's related to our new AI based Neuro product. I'm thinking about selling it to someone interested."
+1. **Explicit Admission (21 Aug 2024):** Emma's WhatsApp message to Joe Marsh: "I have access to some highly valuable information from ABC technologies. It's related to our new AI based Neuro product. I'm thinking about selling it to someone interested."
 
 2. **Financial Agreement (31 Jan 2025):** Facebook negotiations confirmed $5 million payment to offshore account for patent "Blueprint," with Emma confirming: "Watch ur inbox in 48 hrs."
 
 3. **Decrypted Patent File:** Open.docx on Norman's Nokia device (QT-N-001), created 31 Jan 2025 at 10:13:20—2.5 hours before transfer confirmation. File size: 24,576 bytes. **Password recovered: "Neuro2023"** via custom wordlist + bestrule64 attack. Confirmed to contain QT-AI-2025 patent documentation.
 
-4. **Device Attribution:** Samsung Galaxy A13 conclusively linked to Joe Marsh through location correlation—physical presence confirmed in Hanover (21 Aug), Lyon (9 Sep), Glasgow (29 Aug), Paris (15 Oct), and Manchester (21 Nov) matching stated activities.
+4. **Device Attribution:** Samsung Galaxy A13 conclusively linked to Joe Marsh Marsh through location correlation—physical presence confirmed in Hanover (21 Aug), Lyon (9 Sep), Glasgow (29 Aug), Paris (15 Oct), and Manchester (21 Nov) matching stated activities.
 
 5. **Technical Toolkit:** Emma's USB drive contains Kali Linux penetration testing tools, iSCSI storage access utilities, and encryption libraries—equipment indicating preparation for data exfiltration.
 
@@ -35,7 +35,7 @@ Quantum Tech's IT security detected unauthorized access to patent database QT-AI
 
 ### 1.2 Suspects
 - **Emma:** Senior engineer, primary suspect (perpetrator)
-- **Joe:** Intermediary facilitating transfer
+- **Joe Marsh:** Intermediary facilitating transfer
 - **Norman:** Buyer
 - **Vanessa:** Mentioned but no device seized
 
@@ -53,7 +53,7 @@ Quantum Tech's IT security detected unauthorized access to patent database QT-AI
 **QT-E-001: Emma's Android Smartphone**
 - Acquired via Cellebrite UFED and Autopsy (29 March 2026)
 - Files: `Huawei_POT-LX1 P Smart.zip`, `img_EmmaPhone.E01`
-- Contains: 25+ WhatsApp entries, 8 Facebook Messenger entries with Norman, 2 Instagram DMs with Joe
+- Contains: 25+ WhatsApp entries, 8 Facebook Messenger entries with Norman, 2 Instagram DMs with Joe Marsh
 
 **QT-E-002: Emma's USB Flash Drive**
 - Imaged using Autopsy 4.21.0
@@ -71,7 +71,7 @@ Quantum Tech's IT security detected unauthorized access to patent database QT-AI
 
 **QT-J-001: Samsung Galaxy A13**
 - Model: SM-A137F
-- Attribution: Conclusively linked to Joe Marsh via location correlation
+- Attribution: Conclusively linked to Joe Marsh Marsh via location correlation
 - 283 location entries (Aug 2023–May 2025), GPS coordinates confirm Hanover, Lyon, Glasgow, Paris, Manchester presence
 
 **Ulefone Device:** Examined but contained no significant evidence.
@@ -111,31 +111,31 @@ All evidence maintained per ACPO guidelines with documented transfers, storage, 
 
 ### 4.1 Communication Analysis
 
-#### 4.1.1 Emma ↔ Joe (WhatsApp): Conspiracy Formation
+#### 4.1.1 Emma ↔ Joe Marsh (WhatsApp): Conspiracy Formation
 
 **21 August 2024:**
-- **06:03:** Emma initiates: "Hey Joe. Hope you are well. Please let me know when you are available for a chat."
-- **08:27:** Emma escalates: "Hey Joe. I need your help with something sensitive. Do you have time to talk?"
-- **09:15:** Joe responds: "Yes I am available. What's going on?"
+- **06:03:** Emma initiates: "Hey Joe Marsh. Hope you are well. Please let me know when you are available for a chat."
+- **08:27:** Emma escalates: "Hey Joe Marsh. I need your help with something sensitive. Do you have time to talk?"
+- **09:15:** Joe Marsh responds: "Yes I am available. What's going on?"
 - **10:58 (CRITICAL):** **Emma admits guilt:** "I have access to some highly valuable information from ABC technologies. It's related to our new AI based Neuro product. I'm thinking about selling it to someone interested."
-- **11:06:** Joe acknowledges: "That's serious stuff Emma. Do you know how might be interested?"
-- **11:09:** Emma solicits Joe's assistance: "Not exactly Joe, but I trust you can find the right buyer. The competition must be eager to get their hands on this tech."
-- **13:38:** Joe confirms participation: "I will see what I can do...I am meeting few clients today at a Meeting Room in a Hotel. Will discuss about your offer."
+- **11:06:** Joe Marsh acknowledges: "That's serious stuff Emma. Do you know how might be interested?"
+- **11:09:** Emma solicits Joe Marsh's assistance: "Not exactly Joe, but I trust you can find the right buyer. The competition must be eager to get their hands on this tech."
+- **13:38:** Joe Marsh confirms participation: "I will see what I can do...I am meeting few clients today at a Meeting Room in a Hotel. Will discuss about your offer."
 - **13:43:** Emma confirms conspiracy: "Perfect. Let's keep this under wraps. This could be huge for both of us."
 
-Location correlation confirms Joe's Samsung phone was in Hanover, Germany (52.37°N, 9.74°E) during these messages.
+Location correlation confirms Joe Marsh's Samsung phone was in Hanover, Germany (52.37°N, 9.74°E) during these messages.
 
-#### 4.1.2 Joe ↔ Emma (Instagram): Buyer Acquisition
+#### 4.1.2 Joe Marsh ↔ Emma (Instagram): Buyer Acquisition
 
 **9 September 2024:**
-- Joe (hamster.184397) → Emma (peterdover2): "I found someone in NSI compa. He is interested. He needs to know the level of information, you would be willing to share. Could you provide any information on that?"
+- Joe Marsh (hamster.184397) → Emma (peterdover2): "I found someone in NSI compa. He is interested. He needs to know the level of information, you would be willing to share. Could you provide any information on that?"
 
-Location data places Joe in Lyon, France (45.73°N, 4.95°E) when this message was sent.
+Location data places Joe Marsh in Lyon, France (45.73°N, 4.95°E) when this message was sent.
 
 #### 4.1.3 Emma ↔ Norman (Facebook): Deal Finalization
 
 **31 January 2025:**
-- **12:47:** Emma initiates: "Norman, Joe told me u r ready to proceed. Lets keep this clean and quick."
+- **12:47:** Emma initiates: "Norman, Joe Marsh told me u r ready to proceed. Lets keep this clean and quick."
 - **12:49:** Norman: "Almost.We need the. Blueprint in chunks Too risky in one go."
 - **12:49:** Emma: "That wasn't the deal. Everything at once or no deal."
 - **12:51:** Norman: "Security reasons . Let's start with just the 'head'. You know what I mean."
@@ -160,12 +160,12 @@ Consistent male alias across platforms demonstrates premeditated espionage plann
 | Date | Event | Evidence |
 |------|-------|----------|
 | 2-19 Aug 2024 | 7 failed calls to Vanessa (South Africa) | Call logs |
-| 21 Aug 2024 | Conspiracy formed via WhatsApp | Emma's admission, Joe's agreement |
-| 22 Aug 2024 | Joe shares location, captures 15 photos in Hanover | EXIF data |
-| 29 Aug 2024 | Joe travels to Glasgow | 11 photos with GPS coordinates |
-| 9 Sep 2024 | Joe identifies buyer in NexGen Circuits | Instagram DM, Lyon location data |
-| 14-15 Oct 2024 | Joe travels to Paris | 24 photos captured |
-| 20-21 Nov 2024 | Joe travels to Manchester | 8 photos captured |
+| 21 Aug 2024 | Conspiracy formed via WhatsApp | Emma's admission, Joe Marsh's agreement |
+| 22 Aug 2024 | Joe Marsh shares location, captures 15 photos in Hanover | EXIF data |
+| 29 Aug 2024 | Joe Marsh travels to Glasgow | 11 photos with GPS coordinates |
+| 9 Sep 2024 | Joe Marsh identifies buyer in NexGen Circuits | Instagram DM, Lyon location data |
+| 14-15 Oct 2024 | Joe Marsh travels to Paris | 24 photos captured |
+| 20-21 Nov 2024 | Joe Marsh travels to Manchester | 8 photos captured |
 | 31 Jan 2025 | Open.docx created at 10:13:20 | File metadata |
 | 31 Jan 2025 | Password "Neuro2023" set | Contextual correlation |
 | 31 Jan 2025 | Transfer confirmed for 48 hours | Facebook messages |
@@ -196,7 +196,7 @@ Consistent male alias across platforms demonstrates premeditated espionage plann
 
 The 2.5-hour interval and successful decryption confirm Open.docx contains QT-AI-2025 patent documentation prepared for the $5 million transfer.
 
-#### 4.1.7 Device Attribution: Samsung to Joe Marsh
+#### 4.1.7 Device Attribution: Samsung to Joe Marsh Marsh
 
 **Location Correlation Evidence:**
 
@@ -228,7 +228,7 @@ Attribution confidence: **>95%** based on temporal correlation, geographic consi
 
 **2-19 August 2024: Direct Contact Attempts**
 
-Emma attempted 7 calls to Vanessa (South Africa number) before recruiting Joe:
+Emma attempted 7 calls to Vanessa (South Africa number) before recruiting Joe Marsh:
 - 2 Aug: 20:38, 20:39 (unanswered)
 - 10 Aug: 04:55 (call to India +91 number—possible offshore arrangements)
 - 13 Aug: 11:52 (2 calls, unanswered)
@@ -240,7 +240,7 @@ Emma attempted 7 calls to Vanessa (South Africa number) before recruiting Joe:
 
 ### 4.4 Photo Metadata: Attribution Corroboration
 
-EXIF analysis confirms Joe's physical presence matched stated activities:
+EXIF analysis confirms Joe Marsh's physical presence matched stated activities:
 
 | Date | Stated Activity | Photo Evidence | Confidence |
 |------|----------------|----------------|------------|
@@ -252,10 +252,10 @@ EXIF analysis confirms Joe's physical presence matched stated activities:
 
 **Timeline Summary:**
 - Early Aug: Failed direct contact attempts with Vanessa + offshore calls to India
-- 21 Aug: Conspiracy formed with Joe as intermediary
+- 21 Aug: Conspiracy formed with Joe Marsh as intermediary
 - 22 Aug: Hanover activities with location sharing
 - 26 Aug: Unsuccessful Glasgow lead
-- 29 Aug: Joe travels to Scotland
+- 29 Aug: Joe Marsh travels to Scotland
 - 9 Sep: Buyer identified in Lyon
 - Oct-Nov: Continued negotiations in Paris/Manchester
 - 31 Jan: Deal finalized, Open.docx created (password: "Neuro2023")
@@ -274,7 +274,7 @@ EXIF analysis confirms Joe's physical presence matched stated activities:
 - Explicit admission (21 Aug 2024): "I have access to some highly valuable information..."
 - 43 communication entries across platforms
 - Technical toolkit: Kali Linux, iSCSI tools, encryption libraries
-- 7 failed calls to Vanessa before pivoting to Joe
+- 7 failed calls to Vanessa before pivoting to Joe Marsh
 
 **Behavioral Profile:**
 - Systematic operational security
@@ -291,7 +291,7 @@ EXIF analysis confirms Joe's physical presence matched stated activities:
 
 **Risk Level:** HIGH — Immediate system access revocation required.
 
-### 5.2 Joe Marsh — Intermediary
+### 5.2 Joe Marsh Marsh — Intermediary
 
 **Role:** Professional facilitator connecting seller to buyer
 **Device:** Samsung Galaxy A13 (conclusively attributed)
@@ -382,7 +382,7 @@ This investigation uncovered substantial evidence of corporate espionage targeti
 
 4. **Physical Evidence:** Decrypted Open.docx on Norman's Nokia device containing QT-AI-2025 patent documentation (24,576 bytes, password "Neuro2023", created 10:13:20 31 Jan 2025).
 
-5. **Device Attribution:** Samsung phone conclusively linked to Joe via location correlation (>95% confidence).
+5. **Device Attribution:** Samsung phone conclusively linked to Joe Marsh via location correlation (>95% confidence).
 
 6. **Technical Preparation:** Emma's USB drive contained penetration testing toolkit (Kali Linux, iSCSI tools, encryption libraries).
 
@@ -397,9 +397,9 @@ This investigation uncovered substantial evidence of corporate espionage targeti
 | Emma | Conspiracy to commit fraud | Very Strong | 90%+ |
 | Emma | Computer misuse | Strong | 85%+ |
 | Emma | Identity fraud | Strong | 80%+ |
-| Joe | Conspiracy | Very Strong | 90%+ |
-| Joe | Receipt of stolen property | Strong | 85%+ |
-| Joe | Commercial bribery | Strong | 80%+ |
+| Joe Marsh | Conspiracy | Very Strong | 90%+ |
+| Joe Marsh | Receipt of stolen property | Strong | 85%+ |
+| Joe Marsh | Commercial bribery | Strong | 80%+ |
 | Norman | Conspiracy | Very Strong | 90%+ |
 | Norman | Receipt of stolen trade secrets | Very Strong | 90%+ |
 | Norman | Corporate fraud | Strong | 85%+ |
@@ -439,7 +439,7 @@ This investigation uncovered substantial evidence of corporate espionage targeti
 ### 8.2 For Law Enforcement
 
 **Immediate Actions:**
-- Interview suspects under caution (Emma, Joe, Norman)
+- Interview suspects under caution (Emma, Joe Marsh, Norman)
 - Execute search warrants for residences and devices
 **Cryptographic Recovery — COMPLETED:**
 - ✓ Password successfully recovered: "Neuro2023" (9 characters)
