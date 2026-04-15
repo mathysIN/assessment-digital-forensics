@@ -1,0 +1,1 @@
+hashcat.exe -m 9600 -d 1 -a 6 hash.txt words.txt ?d?d?d?d
